@@ -8,4 +8,5 @@ remember to change permissions.
 ##Supported SSIDs:
 
 SSID: KYKWIFI
+
 SSID: KTU-PORTAL
